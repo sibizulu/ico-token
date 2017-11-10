@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/sibizulu/ico-token/issues"
   },
-  "homepage": "https://github.com/sibizulu/ico-token#readme"
+  "homepage": "https://github.com/sibizulu/ico-token#readme",
+  "dependencies": {
+    "truffle": "^4.0.1"
+  }
 }
